@@ -1,0 +1,26 @@
+.card-img-top {
+  aspect-ratio: 1 / 1;
+  object-fit: fill;
+}
+
+body {
+  /* background-image: url(https://i.pinimg.com/originals/4a/a9/9b/4aa99b6ad2d2cbc7cb04a41571885a8f.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  overflow-x: hidden; */
+  background-color: black;
+}
+
+::-webkit-scrollbar {
+  background-color: black;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: white;
+  border-radius: 20px;
+}
+
+#radio-container {
+  color: white;
+}
